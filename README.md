@@ -14,4 +14,7 @@ LearningMoreML
 9. Update app.py
 
 
-I am stuck with the conda environment. I am just one step away from strting over create the conda env from vsc
+I am stuck with the conda environment. I hope it will not bring more problems down the road,
+
+Skipping cleaning in data_validation for this exercise
+Data Validation pending task: check the datatype for each column
