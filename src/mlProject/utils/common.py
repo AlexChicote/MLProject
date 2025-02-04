@@ -1,10 +1,10 @@
 import os
 from box.exceptions import BoxValueError
 import yaml
-from src.mlProject importr logger
+from src.mlProject import logger
 import json
 import joblib #to accelerate task like for example hyperparameter tunning
-from enseure import ensure_annotations
+from ensure import ensure_annotations
 from box import ConfigBox
 from pathlib import Path ##making it easy to deal with files and paths
 from typing import Any #states type hints
@@ -47,7 +47,7 @@ def create_directories(path_to_directories:list,verbose=True):
 
     """
     for path in path_to_directories:
-        os.makedir(path,exist_ok=True)
+        os.makedirs(path,exist_ok=True)
         if verbose:
             logger.info(f"created directory at {path}")
 
