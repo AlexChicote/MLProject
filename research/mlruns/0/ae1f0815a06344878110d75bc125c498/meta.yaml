@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/fcbnyc/mystuff/repos/MLProject/research/mlruns/0/ae1f0815a06344878110d75bc125c498/artifacts
+end_time: 1738865846566
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae1f0815a06344878110d75bc125c498
+run_name: wise-loon-170
+run_uuid: ae1f0815a06344878110d75bc125c498
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738865846563
+status: 3
+tags: []
+user_id: fcbnyc
