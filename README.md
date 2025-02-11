@@ -113,7 +113,7 @@ Maybe this other one 8343a6e76ce9d88db17e6094c94bba912293c423
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 566373416292.dkr.ecr.ap-south-1.amazonaws.com/mlproj
+    - Save the URI: 975365664731.dkr.ecr.us-east-1.amazonaws.com/mlproject
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
