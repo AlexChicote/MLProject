@@ -1,6 +1,9 @@
 # MLProject
 LearningMoreML
 
+- Still pending deployment in aws. I think I have some issues with the naming (MLProject,mlproj and mlProject) of the repo but this is something that I will try to fix in the future. I am done for now with this project.
+-  I will try to do this project for Barcelona Accidents but only with the model itself (a similar project that th one pending of streamlit).
+
 
 ## Workflows
 1. Update config.yaml

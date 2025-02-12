@@ -1,2 +1,3 @@
 cython_debug/
 artifacts/*
+pem/*
