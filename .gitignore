@@ -1,3 +1,4 @@
 cython_debug/
 artifacts/*
 pem/*
+templates/results_backup.html
