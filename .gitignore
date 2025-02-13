@@ -2,3 +2,7 @@ cython_debug/
 artifacts/*
 pem/*
 templates/results_backup.html
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
